@@ -1,0 +1,14 @@
+{
+  "name": "digital-garden",
+  "version": "1.0.0",
+  "description": "This is not my Blog, It's my Digital Garden",
+  "main": "index.js",
+  "author": "Tinnaphat \"Tin\" Somsang <loyaltyplex@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "node build"
+  },
+  "dependencies": {
+    "remarkable": "^2.0.1"
+  }
+}
